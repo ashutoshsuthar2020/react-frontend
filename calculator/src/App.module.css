@@ -1,0 +1,6 @@
+.calculator {
+    border: 1px solid black;
+    width: 200px;
+    border-radius: 5px;
+    /* "container d-flex justify-content-center align-items-center vh-100" */
+}
